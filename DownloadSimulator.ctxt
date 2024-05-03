@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=DownloadSimulator
+comment1.params=
+comment1.target=DownloadSimulator()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=event
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=int\ getSize()
+comment5.params=
+comment5.target=void\ download()
+comment6.params=
+comment6.target=void\ delete()
+numComments=7
